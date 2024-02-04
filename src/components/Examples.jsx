@@ -30,6 +30,7 @@ export default function () {
   return (
     <Section title="Examples" id="examples">
       <Tabs
+        ButtonsContainer="menu"
         buttons={
           <>
             {" "}
